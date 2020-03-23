@@ -1,0 +1,29 @@
+.fright img{
+  float: right;
+  width: 10%;
+  height: 20%;
+  border: 6px solid darkgreen;
+}  
+.fright {
+  border: 1px solid darkgreen;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.well {
+  border: 1px solid darkgreen;
+}
+
+.currentWork{
+  margin-bottom: 50px;
+}
+.fotos  img{
+  width: 25%;
+  height: 25%;
+  float: right;
+}
+.fotos {
+  border: 1px solid darkblue;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
